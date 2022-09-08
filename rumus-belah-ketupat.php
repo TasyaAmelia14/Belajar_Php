@@ -2,9 +2,9 @@
     <h1> Rumus Luas dan Keliling Belah Ketupat </h1>
     <p>Sisi (s) :</p>
     <input type="number" name="s" placeholder="Ex. 5" />
-    <p>D1 :</p>
+    <p>Diagonal 1 :</p>
     <input type="number" name="d1" placeholder="Ex. 5" />
-    <p>D2 :</p>
+    <p>Diagonal 2 :</p>
     <input type="number" name="d2" placeholder="Ex. 5" />
     <input type="submit" name="proses" value="Hitung Luas dan Keliling" />
 </form>
